@@ -1,20 +1,3 @@
 export default [
-    // { "_id": "Z101", 
-    //     "title": "Q1-Propulsion Assignment", 
-    //     "points": "5",
-    //     "question":"What is Propulsion Assignment?",
-    //     "answer": "A",
-    //     "quiz": "Q101" },
-    // { "_id": "Z102", 
-    //     "title": "Q1-Aerodynamics Quiz", 
-    //     "points": "5",
-    //     "question":"What is Aerodynamics?",
-    //     "answer": "A",
-    //     "quiz": "Q102" },
-    // { "_id": "Z103", 
-    //     "title": "Q1-Design Task", 
-    //     "points": "5",
-    //     "question":"What is Design Task?",
-    //     "answer": "It is A",
-    //     "quiz": "Q103" },    
+    
 ]
